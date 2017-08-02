@@ -1,0 +1,5 @@
+/home/gabriel/DevelopmentProjects/MonoDevelop/MapsFinal/MapsFinal/obj/Debug/MapsFinal.csproj.CoreCompileInputs.cache
+/home/gabriel/DevelopmentProjects/MonoDevelop/MapsFinal/MapsFinal/bin/MapsFinal.dll
+/home/gabriel/DevelopmentProjects/MonoDevelop/MapsFinal/MapsFinal/bin/MapsFinal.pdb
+/home/gabriel/DevelopmentProjects/MonoDevelop/MapsFinal/MapsFinal/obj/Debug/MapsFinal.dll
+/home/gabriel/DevelopmentProjects/MonoDevelop/MapsFinal/MapsFinal/obj/Debug/MapsFinal.pdb
