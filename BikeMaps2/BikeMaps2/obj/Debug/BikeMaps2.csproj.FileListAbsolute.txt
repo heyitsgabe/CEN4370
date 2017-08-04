@@ -1,0 +1,9 @@
+f:\documents\visual studio 2017\Projects\BikeMaps2\BikeMaps2\bin\Debug\BikeMaps2.exe.config
+f:\documents\visual studio 2017\Projects\BikeMaps2\BikeMaps2\bin\Debug\BikeMaps2.exe
+f:\documents\visual studio 2017\Projects\BikeMaps2\BikeMaps2\bin\Debug\BikeMaps2.pdb
+f:\documents\visual studio 2017\Projects\BikeMaps2\BikeMaps2\obj\Debug\BikeMaps2.csprojResolveAssemblyReference.cache
+f:\documents\visual studio 2017\Projects\BikeMaps2\BikeMaps2\obj\Debug\BikeMaps2.Form1.resources
+f:\documents\visual studio 2017\Projects\BikeMaps2\BikeMaps2\obj\Debug\BikeMaps2.Properties.Resources.resources
+f:\documents\visual studio 2017\Projects\BikeMaps2\BikeMaps2\obj\Debug\BikeMaps2.csproj.GenerateResource.Cache
+f:\documents\visual studio 2017\Projects\BikeMaps2\BikeMaps2\obj\Debug\BikeMaps2.exe
+f:\documents\visual studio 2017\Projects\BikeMaps2\BikeMaps2\obj\Debug\BikeMaps2.pdb
